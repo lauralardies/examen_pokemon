@@ -18,7 +18,13 @@ plt.show()
 # Tabla de Ataque 
 plt.figure(figsize=(12,10))
 sns.displot(x = "Attack", data = df, kde = True)
-plt.suptitle("Distribution of Attack stats")
+plt.suptitle("Ataque")
+plt.show()
+
+# Tabla de Defensa 
+plt.figure(figsize=(12,10))
+sns.displot(x = "Defense", data = df, kde = True)
+plt.suptitle("Defensa")
 plt.show()
 
 df2=df.copy()
