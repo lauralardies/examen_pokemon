@@ -1,5 +1,7 @@
 # examen_pokemon
 
+Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://github.com/lauralardies/examen_pokemon)
+https://github.com/lauralardies/examen_pokemon
 
 La analítica nos aporta esta tabla de datos:
 ```
